@@ -1,0 +1,159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-14 20:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: forms.py:7 forms.py:13
+msgid "Username"
+msgstr "Usuario"
+
+#: forms.py:8 forms.py:14
+msgid "Password"
+msgstr "Contraseña"
+
+#: forms.py:15
+msgid "Repeat your password"
+msgstr "Repita su contraseña"
+
+#: forms.py:16
+msgid "E-mail"
+msgstr "E-mail"
+
+#: forms.py:19
+msgid "First name"
+msgstr "Nombre"
+
+#: forms.py:20
+msgid "Last name"
+msgstr "Apellidos"
+
+#: forms.py:24
+#| msgid "Title "
+msgid "Title"
+msgstr "Titulo"
+
+#: forms.py:25
+#| msgid "Description: "
+msgid "Description"
+msgstr "Descripcion"
+
+#: forms.py:27
+#| msgid "Date: "
+msgid "Date"
+msgstr "Fecha"
+
+#: forms.py:30
+#| msgid "Event state: "
+msgid "Event state"
+msgstr "Estado del evento"
+
+#: forms.py:34
+#| msgid "Create your event"
+msgid "Write your comment"
+msgstr "Crea tu evento"
+
+#: templates/events/event.html:6
+msgid "Event description"
+msgstr "Descripcion del evento"
+
+#: templates/events/event.html:14
+#| msgid "Title "
+msgid "Title: "
+msgstr "Titulo: "
+
+#: templates/events/event.html:15
+msgid "Event state: "
+msgstr "Estado del evento: "
+
+#: templates/events/event.html:16
+msgid "Date: "
+msgstr "Fecha: "
+
+#: templates/events/event.html:17
+#, fuzzy
+#| msgid "Description: "
+msgid "Description:"
+msgstr "Descripcion: "
+
+#: templates/events/event.html:18
+msgid "Author: "
+msgstr "Autor: "
+
+#: templates/events/event.html:28
+msgid "Subscribe"
+msgstr "Subscribirse"
+
+#: templates/events/event.html:34
+msgid "The specify event does not exist"
+msgstr "El evento especificado no existe"
+
+#: templates/events/event_create.html:7
+msgid "Post a new event"
+msgstr "Crear un nuevo evento"
+
+#: templates/events/event_create.html:14
+msgid "Create your event"
+msgstr "Crea tu evento"
+
+#: templates/events/event_create.html:19
+msgid "Post event"
+msgstr "Crear un nuevo evento"
+
+#: templates/events/index.html:14
+msgid "Events network"
+msgstr "Red de eventos"
+
+#: templates/events/index.html:31
+msgid "Sign in"
+msgstr "Entrar"
+
+#: templates/events/index.html:32 templates/events/signup.html:14
+msgid "Sign up"
+msgstr "Registrarse"
+
+#: templates/events/index.html:40
+msgid "Welcome "
+msgstr "Bienvenido "
+
+#: templates/events/index.html:46
+msgid "Exit"
+msgstr "Salir"
+
+#: templates/events/index.html:65
+msgid "Public events"
+msgstr "Eventos publicos"
+
+#: templates/events/index.html:67
+msgid "Public & Private events"
+msgstr "Eventos publicos & privados"
+
+#: templates/events/index.html:75
+msgid "Post by: "
+msgstr "Creado por: "
+
+#: templates/events/index.html:86
+msgid "Post new event"
+msgstr "Crea un nuevo evento"
+
+#: templates/events/index.html:94
+msgid "No events are available"
+msgstr "No hay eventos disponibles"
+
+#: templates/events/signup.html:20
+msgid "Sign Up"
+msgstr "Registrarse"
