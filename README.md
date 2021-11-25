@@ -9,6 +9,6 @@ Log in Users can subscribed to events.
 
 The app was made with Class views and support two languages (English and Spanish).
 
-Follow PEP8 convention and has a functiona testing arquitecture. 
+Follow PEP8 convention.
 
 
